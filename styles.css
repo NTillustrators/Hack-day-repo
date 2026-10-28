@@ -22,10 +22,10 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   justify-content: center;
-  /* images/hero.jpg is used when present; hero.svg shows until then. */
+  /* images/hero.jpg is used when present; city.svg shows until then. */
   background:
     url("images/hero.jpg") center / cover no-repeat,
-    #07030a url("images/hero.svg") center / cover no-repeat;
+    #07030a url("images/city.svg") center / cover no-repeat;
   color: #ffffff;
   text-align: center;
 }
