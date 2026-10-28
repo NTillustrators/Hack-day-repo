@@ -24,8 +24,8 @@ a { color: inherit; }
   justify-content: center;
   /* images/hero.jpg is used when present; city.svg shows until then. */
   background:
-    url("images/hero.jpg?v=1793194256") center / cover no-repeat,
-    #07030a url("images/city.svg?v=1793194256") center / cover no-repeat;
+    url("images/hero.jpg?v=1793194266") center / cover no-repeat,
+    #07030a url("images/city.svg?v=1793194266") center / cover no-repeat;
   color: #ffffff;
   text-align: center;
 }

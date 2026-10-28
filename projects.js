@@ -1,6 +1,6 @@
 // Portfolio projects. Each one gets a gallery tile on portfolio.html and a
 // case study page at case-study.html?project=<id>.
-// To use a real image, set `image` to a path like "images/project-one.jpg?v=1793194256".
+// To use a real image, set `image` to a path like images/project-one.jpg.
 const projects = [
   {
     id: "project-one",
