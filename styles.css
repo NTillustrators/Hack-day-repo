@@ -22,8 +22,10 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   justify-content: center;
-  /* Swap images/hero.svg for your own photo, e.g. images/hero.jpg */
-  background: #1b2a41 url("images/hero.svg") center / cover no-repeat;
+  /* images/hero.jpg is used when present; hero.svg shows until then. */
+  background:
+    url("images/hero.jpg") center / cover no-repeat,
+    #07030a url("images/hero.svg") center / cover no-repeat;
   color: #ffffff;
   text-align: center;
 }
