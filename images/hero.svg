@@ -1797,16 +1797,4 @@
 <rect x="1957" y="1185" width="7" height="5" fill="#fff1c1" opacity="0.62"/>
 <rect x="1867" y="1203" width="7" height="5" fill="#fff1c1" opacity="0.73"/>
 <rect x="1921" y="1203" width="7" height="5" fill="#fff1c1" opacity="0.61"/>
-<rect x="0" y="1032" width="1920" height="18" fill="#05020a"/>
-<rect x="0" y="1028" width="1920" height="3" fill="#ff3b2f" filter="url(#blur)"/><rect x="0" y="1029" width="1920" height="1.5" fill="#ff8a5c"/>
-<rect x="0" y="1036" width="1920" height="2" fill="#fff4d6" opacity="0.8" filter="url(#blur)"/>
-<rect x="40" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="260" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="480" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="700" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="920" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="1140" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="1360" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="1580" y="1050" width="16" height="168" fill="#05020a"/>
-<rect x="1800" y="1050" width="16" height="168" fill="#05020a"/>
 </svg>
