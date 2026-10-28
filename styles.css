@@ -54,9 +54,7 @@ a { color: inherit; }
   color: #ffffff;
   -webkit-text-stroke: 0.025em #2a0303;
   paint-order: stroke fill;
-  text-shadow:
-    0.035em 0.035em 0 #2a0303,
-    0 0 0.6em rgb(227 36 27 / 0.45);
+  text-shadow: 0 0 0.6em rgb(227 36 27 / 0.45);
 }
 
 .logo-kana {
